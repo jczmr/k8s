@@ -108,5 +108,5 @@ sudo yum install htop   # CentOS/RHEL
 ---
 ## 7. `Conclusion`
 
-#### These commands offer different levels of detail to help you understand the CPU layout and performance characteristics of your Linux system. Use them individually or in combination depending on your needs—whether you're checking basic specs, debugging, or optimizing your server's performance.
+- These commands offer different levels of detail to help you understand the CPU layout and performance characteristics of your Linux system. Use them individually or in combination depending on your needs, whether you're checking basic specs, debugging, or optimizing your server's performance.
 ---
